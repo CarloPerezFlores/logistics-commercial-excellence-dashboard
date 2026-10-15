@@ -51,7 +51,11 @@ The dashboard brings together commercial and logistics indicators to support exe
 
 ## Data and privacy note
 
-This repository intentionally does **not** include all raw source tables. Some uploaded source files contain driver personal information (for example, dates of birth and license numbers), vehicle identifiers, or detailed operational records. Do not publish those files publicly without checking data ownership, licensing, and privacy requirements. The included CSVs are aggregated reporting/forecast artifacts, but their publication rights should still be confirmed before making the repository public.
+Only selected analytical datasets and reporting outputs are included in this repository. Source data should be shared only when permitted by applicable licensing, ownership, and privacy requirements.
+
+## Limitations
+
+Revenue analysis does not necessarily reflect profitability, as transportation costs are not included in the revenue metrics. Forecast outputs should be evaluated against actual results before drawing conclusions about predictive accuracy.
 
 ## Business questions supported
 
