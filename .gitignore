@@ -1,0 +1,15 @@
+# Power BI / Office temporary files
+*.tmp
+~$*.xlsx
+~$*.xlsm
+
+# Python environments and caches (if code is added later)
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local/private source data
+private_data/
+raw_data/
+*.pbix
