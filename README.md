@@ -14,16 +14,16 @@ The dashboard brings together commercial and logistics indicators to support exe
 ## Dashboard previews
 
 ### Executive Overview
-![Executive Overview](assets/dashboard/01-executive-overview.png)
+![Executive Overview](./01-executive-overview.png)
 
 ### Operational Performance
-![Operational Performance](assets/dashboard/02-operational-performance.png)
+![Operational Performance](./02-operational-performance.png)
 
 ### Customer Performance
-![Customer Performance](assets/dashboard/03-customer-performance.png)
+![Customer Performance](./03-customer-performance.png)
 
 ### Route Performance
-![Route Performance](assets/dashboard/04-route-performance.png)
+![Route Performance](./04-route-performance.png)
 
 ## Tools and methods represented
 
